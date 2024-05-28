@@ -1,0 +1,5 @@
+Initialization of Variables:Initialized second and third variables to Number.MIN_VALUE to ensure they start with the smallest possible value.
+
+Update Conditions in Loops:Updated conditions in loops to correctly compare elements and update second and third variables.
+
+Fixing Indentation: Corrected indentation for better readability.
